@@ -53,11 +53,3 @@ Você pode <a href="https://github.com/altobellibm/-CEDERJ_2022_MATEUS_VANESSA-"
 - Para executar o projeto basta abrir o terminal na mesma pasta do projeto e executar o comando:
 ``python main.py``
 
-## Observações
-#### O arquivo config.json ja contém uma apikey, segue abaixo email e senha para acesso o portal do Elsevier.
-
-```txt
-   Acesso ao Gmail e Elsevier: 
-      email: acessoapisciencedirect@gmail.com
-      senha": "T&st&@p|
-```
