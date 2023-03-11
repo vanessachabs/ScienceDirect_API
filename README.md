@@ -18,9 +18,9 @@ Feito pelos alunos Mateus e Vanessa do curso de Tecnologia de Sistema da Computa
 
 ## ✔️ Pré-Requisitos
 
-- Python 3.x instalado (Caso não tenha para baixa-lo clique <a href="https://www.python.org/downloads/">aqui</a>.)
-- MongoDB instalado (Caso não tenha para baixa-lo clique <a href="https://www.mongodb.com/try/download/community">aqui</a>.)
-- Pycharm Community (Caso não tenha para baixa-lo clique <a href="https://download.jetbrains.com/python/pycharm-community-2022.1.1.exe">aqui</a>.)
+- Python 3.x instalado (Caso não tenha clique <a href="https://www.python.org/downloads/">aqui</a>.)
+- MongoDB instalado (Caso não tenha clique <a href="https://www.mongodb.com/try/download/community">aqui</a>.)
+- Pycharm Community (Caso não tenha clique <a href="https://download.jetbrains.com/python/pycharm-community-2022.1.1.exe">aqui</a>.)
 - Uma chave de API do http://dev.elsevier.com (Tutorial para gerar chave da API <a href="https://www.youtube.com/watch?v=9IIpYZQvnYw">aqui</a>.)
 - Uma conexão de rede em uma instituição que tenha inscrição no ScienceDirect. 
 
